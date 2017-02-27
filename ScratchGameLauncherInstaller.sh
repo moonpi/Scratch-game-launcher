@@ -32,8 +32,8 @@ then
 	delete $LAUNCHER_DIR ;
 fi
 
-echo -e "[Scratch Game Launcher installer] Installing Chromium ..."
-sudo apt-get -y install chromium-browser
+echo -e "[Scratch Game Launcher installer] Installing Midori ..."
+sudo apt-get -y install midori
 echo -e "[Scratch Game Launcher installer] Installing JoyPad Config tool ..."
 sudo apt-get -y install qjoypad
 
@@ -74,8 +74,8 @@ echo -e "\n[Scratch Game Launcher installer] Installing controller configuration
 sudo mkdr /home/pi/.qjoypad3
 
 cd /home/pi/.qjoypad3
-sudo wget https://github.com/punkbass/ScratchRetroPie/raw/master/Epic-Ninja.lyt
-sudo wget https://github.com/punkbass/ScratchRetroPie/raw/master/FOIL-Mario.lyt
+sudo wget https://github.com/punkbass/Scratch-game-launcher/raw/master/Epic-Ninja.lyt
+sudo wget https://github.com/punkbass/Scratch-game-launcher/raw/master/FOIL-Mario.lyt
 
 
 sleep  2
