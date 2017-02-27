@@ -77,6 +77,16 @@ cd /home/pi/.qjoypad3
 sudo wget https://github.com/punkbass/Scratch-game-launcher/raw/master/Epic-Ninja.lyt
 sudo wget https://github.com/punkbass/Scratch-game-launcher/raw/master/FOIL-Mario.lyt
 
+cd /home/pi/RetroPie/roms/scratch
+
+#Chmod scripts to be runnable
+
+#sudo chmod +x Pony-Math.sh
+#sudo chmod +x Rabbit-Eats-Math-for-Breakfast-Pi.sh
+sudo chmod +x Epic-Ninja.sh
+#sudo chmod +x FOIL-Mario.sh
+sudo chmod +x Geometry-Jump.sh
+
 
 sleep  2
 echo -e "\nComplete!\n"
