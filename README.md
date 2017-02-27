@@ -1,5 +1,5 @@
 # Scratch Game Launcher
-Provides a desktop icon and controller configurations for Scratch games running on Phosphorous on Chromium.
+Provides a desktop icon and controller configurations for Scratch games running on Phosphorous on Chromium on Raspberry Pi.
 
 Installation
 ------------
