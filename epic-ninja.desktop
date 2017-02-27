@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Epic Ninja
+Comment=Ninja game by GriffPatch on Scratch
+Exec=qjoypad "Epic-Ninja" & chromium --app=https://phosphorus.github.io/app.html?id=21554369&turbo=false&full-screen=true
+Icon=/opt/kano/scratch-game-launcher/epic-ninja.png
+Type=Application
+Categories=Application;Game;

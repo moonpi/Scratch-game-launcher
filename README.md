@@ -1,5 +1,6 @@
-# Scratch-game-launcher
+# Scratch Game Launcher
 Provides a desktop icon and controller configurations for Scratch games running on Phosphorous on Chromium.
+
 Installation
 ------------
 Run installation shell script using one of the following command lines in the terminal:
