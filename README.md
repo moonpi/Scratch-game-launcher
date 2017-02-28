@@ -34,3 +34,10 @@ Button 3 (X) = Throw
 Button 8 (Start) = Pause
 Button 7 (Select) = Music on/off
 
+### Geometry Jump:
+#### Keyboard
+Space = Jump
+#### Mouse
+Click = Jump
+##### JOystick
+Button 1,2 (A,B) = Jump
