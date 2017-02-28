@@ -79,7 +79,7 @@ cd /home/pi/.qjoypad3
 sudo wget https://github.com/punkbass/Scratch-game-launcher/raw/master/Epic-Ninja.lyt
 sudo wget https://github.com/punkbass/Scratch-game-launcher/raw/master/FOIL-Mario.lyt
 
-cd /home/pi/RetroPie/roms/scratch
+cd $LAUNCHER_DIR
 
 #Chmod scripts to be runnable
 
