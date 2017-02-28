@@ -1,5 +1,5 @@
 # Scratch Game Launcher
-Provides a desktop icon and controller configurations for Scratch games running on Phosphorous on Chromium on Raspberry Pi or Debian-based Linux such as Ubuntu. It runs better on Ubuntu.
+Provides a desktop icon and controller configurations for Scratch games running on Phosphorous on Chromium on Raspberry Pi or Debian-based Linux such as Ubuntu. It runs better on Ubuntu. 
 
 Installation
 ------------
@@ -45,3 +45,5 @@ Space = Jump
 Click = Jump
 ##### JOystick
 Button 1,2 (A,B) = Jump
+
+Note: QJoyPad may not work on Kano. It did not detect my controller. However, the controller worked on an NES emulator. However, the NES emulator did not display the name of the buttons when I was configuring the controls. This may be an issue with the Kano OS. 
