@@ -16,7 +16,7 @@ wget --no-check-certificate https://goo.gl/DRC6XN -O - | bash
 ```
 
 ## Controls:
-Right click screen and pick fullscreen to exit fullscreen.
+Right click screen and pick "Leave fullscreen" to exit fullscreen.
 
 ### Epic Ninja:
 #### Keyboard
