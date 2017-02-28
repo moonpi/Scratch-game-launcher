@@ -15,6 +15,8 @@ or
 wget --no-check-certificate https://goo.gl/DRC6XN -O - | bash
 ```
 
+If your username is not pi, you may have to copy the .lyt files from /opt/kano/Scratch-game-launcher to the .qjoypad folder in your home directory. press ctrl + h to show the .qjoypad folder.
+
 ## Controls:
 Right click screen and pick "Leave fullscreen" to exit fullscreen.
 
