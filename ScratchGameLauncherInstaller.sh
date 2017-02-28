@@ -70,6 +70,8 @@ sudo ln -s $LAUNCHER_DIR/geometry-jump.desktop ~/Desktop/geometry-jump.desktop
 sudo chmod +x ~/Desktop/geometry-jump.desktop
 sudo chown $(whoami) ~/Desktop/geometry-jump.desktop
 
+sudo cp $LAUNCHER_DIR/geometry-jump.desktop /usr/share/applications
+
 echo -e "\n[Scratch Game Launcher installer] Installing controller configurations."
 sudo mkdr /home/pi/.qjoypad3
 
