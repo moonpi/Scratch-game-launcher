@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Geometry Jump
 Comment=Basic shape jumping game by Punkbass on Scratch
-Exec=Geometry-Jump.sh
-Icon=/opt/kano/scratch-game-launcher/geometry-jump.png
+Exec=sh /opt/kano/scratch-game-launcher/Geometry-Jump.sh
+Icon=/opt/kano/scratch-game-launcher/geometry-jump-icon.png
 Type=Application
 Categories=Application;Game;
