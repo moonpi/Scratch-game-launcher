@@ -22,19 +22,21 @@ Right click screen and pick "Leave fullscreen" to exit fullscreen.
 
 ### Epic Ninja:
 #### Keyboard
-##### Arrow WASD - Move
+- Press Space to start
+- Arrow WASD - Move
 - UP/W - Jump
 - Space - Attack
-T - Throw
-P - Pause
-M - Music On/Off
+- T - Throw
+- P - Pause
+- M - Music On/Off
 
 ##### Joystick:
-Button 1,2 (A,B) = Jump
-Buton 4 (Y) = Attack
-Button 3 (X) = Throw
-Button 8 (Start) = Pause
-Button 7 (Select) = Music on/off
+- Press Y to Start
+- Button 1,2 (A,B) = Jump
+- Buton 4 (Y) = Attack
+- Button 3 (X) = Throw
+- Button 8 (Start) = Pause
+- Button 7 (Select) = Music on/off
 
 ### Geometry Jump:
 #### Keyboard
