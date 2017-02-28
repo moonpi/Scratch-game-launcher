@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Epic Ninja
 Comment=Ninja game by GriffPatch on Scratch
-Exec= /opt/kano/scratch-game-launcher/Epic-Ninja.sh
-Icon=/opt/kano/scratch-game-launcher/epic-ninja.png
+Exec=sh /opt/kano/scratch-game-launcher/Epic-Ninja.sh
+Icon=/opt/kano/scratch-game-launcher/epic-ninja-icon.png
 Type=Application
 Categories=Application;Game;
