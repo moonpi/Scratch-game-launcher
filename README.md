@@ -22,9 +22,9 @@ Right click screen and pick "Leave fullscreen" to exit fullscreen.
 
 ### Epic Ninja:
 #### Keyboard
-Arrow WASD - Move
-UP/W - Jump
-Space - Attack
+##### Arrow WASD - Move
+- UP/W - Jump
+- Space - Attack
 T - Throw
 P - Pause
 M - Music On/Off
